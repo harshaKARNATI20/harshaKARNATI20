@@ -1,3 +1,8 @@
+<!-- Main Top PC GIF -->
+<div style="display: flex; justify-content: center;">
+    <img src="https://github.com/harshaKARNATI20/harshaKARNATI20/blob/main/assets/Me_Github.png" height="auto" width="100%" />
+<!--     <img src="https://github.com/harshaKARNATI20/harshaKARNATI20/blob/main/assets/WorkEnvironment.gif" height="auto" width="95%" /> -->
+</div>
 <h1>Hi 👋, I'm Harsha</h1>
 <p>
   A passionate Full Stack & Game Developer from India 🇮🇳<br>
